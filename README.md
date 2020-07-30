@@ -9,7 +9,7 @@ Tasks
 Bonus assignment (optional):
 
   4. Create 8 graphs like these on one page. Update each graph dynamically with different data each 10 seconds. Measure the load impact on browser.
-  5. Wrap the graph with movable and resizable widget container, as shown here - https://pasteboard.co/Jk5gp31.png
+  5. Wrap the graph with movable and resizable widget container, as shown here - https://pasteboard.co/Jk5gp31.png and here - https://pasteboard.co/Jk5tKME.png
   6. How can you improve load impact on browser in task #4?
 
 It is not nesessary to base on TestTask.vue, you can write everything your way.
