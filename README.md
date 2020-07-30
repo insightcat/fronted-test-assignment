@@ -13,5 +13,6 @@ Bonus assignment (optional):
   6. How can you improve load impact on browser in task #4?
 
 It is not nesessary to base on TestTask.vue, you can write everything your way.
+
 Commit your work to a public git repo and send a link to admin@insightcat.com
 
