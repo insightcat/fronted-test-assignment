@@ -2,7 +2,7 @@
 
 Tasks
 
-  1. Draw a pixel-perfect graph, based on https://www.figma.com/file/tfUOLguvbfogFZAn17qWkp/Untitled?node-id=0%3A1
+  1. Draw a pixel-perfect graph, based on https://www.figma.com/file/tfUOLguvbfogFZAn17qWkp/Untitled?node-id=0%3A1 (sign in to Figma to see the css/element details)
   2. Fill the graph with data, as in initialData (TestTask.vue)
   3. Generate data for the graph dynamically and make it update itself each 10 seconds
 
