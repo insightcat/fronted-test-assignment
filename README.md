@@ -1,5 +1,7 @@
 # Frontend developer test assignment
 
+We aim to review the whole package - code quality, approach, functionality and design. We will review even unfinished bit and pieces, but you will score extra points by accomplishing main tasks and extra bonus steps.
+
 Tasks
 
   1. Draw a pixel-perfect graph, based on https://www.figma.com/file/lEvDUSOvib0n4Fy5ahR8Ap/InsightCat-Test?node-id=0%3A1 (sign in to Figma to see the css/element details)
@@ -15,4 +17,3 @@ Bonus assignment (optional):
 It is not nesessary to base on TestTask.vue, you can write everything your way.
 
 Commit your work to a public git repo and send a link to admin@insightcat.com
-
